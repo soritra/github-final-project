@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # soritra
+   # soritra (Ludo)
 
    # Input:
    # p, principal amount
